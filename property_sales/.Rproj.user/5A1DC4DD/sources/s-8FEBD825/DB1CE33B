@@ -1,0 +1,24 @@
+{
+    "id": "DB1CE33B",
+    "path": "C:/Projects/property-sales/property_sales/sales-analysis.R",
+    "project_path": "sales-analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607566618337.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "13,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607566570,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607566570,
+    "read_only": false,
+    "read_only_alternatives": []
+}
